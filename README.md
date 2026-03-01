@@ -34,7 +34,9 @@ Este repositório contém soluções desenvolvidas por **mim** (@JoaoRanulfoData
 ---
 ### 📬 Contato
 <div align="left">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/joao-ranulfo-datascience/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+
