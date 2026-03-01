@@ -12,3 +12,6 @@ def calcular_venda_com_lucro(valor_venda_atual, porcentagem_atual, lucro_desejad
 
 # Testando 
 print(f"Valor ideal: R$ {calcular_venda_com_lucro(210,70,15)}")
+
+
+#RESPOSTA Valor ideal: R$ 345.0
